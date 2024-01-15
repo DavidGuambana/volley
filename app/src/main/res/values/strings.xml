@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">volley</string>
+    <string name="lista_de_art_culos">Lista de Artículos</string>
+    <string name="articulo_0">Articulo: 0</string>
+    <string name="nombre">Nombre:</string>
+    <string name="lista_de_articulos">Lista de Artículos</string>
+    <string name="catego_a">Categoía:</string>
+    <string name="stock">Stock:</string>
+    <string name="textview">TextView</string>
+    <string name="textvieww">TextView</string>
+    <string name="id_proveedor">ID proveedor:</string>
+    <string name="ventas">Ventas:</string>
+</resources>
